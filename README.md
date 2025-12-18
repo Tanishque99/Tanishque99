@@ -14,19 +14,6 @@ I am a **Master of Science in Computer Science** student at **Arizona State Univ
 
 ---
 
-### 💼 Professional Highlights
-
-* **Deloitte | Analyst (Software Development)**:
-    * Coordinated data migration from on-premise to cloud for Manipal Hospitals.
-    * Mapped Health Level (HL7) data into Fast Healthcare Interoperability Resources (FHIR) format using GCP.
-    * Developed end-to-end ML algorithms for Unilever, processing terabytes of data for pattern recognition and normalization.
-    * Optimized Databricks notebooks, reducing runtime by **30%** through Scala-to-Python conversion.
-    * Implemented strategies leading to a **13% reduction in COGS** and a **7.9% growth in profits**.
-* **Finland Labs | Software Intern**:
-    * Engaged in IoT projects utilizing AWS, integrating Arduino and sensors with machine learning.
-    * Generated RESTful APIs with AWS Lambda and API Gateway to control home devices.
-
----
 
 ### 🎓 Academic Projects
 
