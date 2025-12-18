@@ -18,7 +18,7 @@ I am a **Master of Science in Computer Science** student at **Arizona State Univ
 ### 🎓 Academic Projects
 
 * **Text2Sql Generator**:
-     * Designed Natural Language query to sql query generation pipeline using FAISS vectors, CodeT5+ and spider dataset with 72% test accuracy.
+     * Designed Natural Language query to SQL query generation pipeline using FAISS vectors, CodeT5+ and spider dataset with 72% test accuracy.
 
 * **Human Motion Video Analytics**: 
     * Defined a multimedia database system using deep learning (R3D-18) and dimensionality reduction (PCA, SVD) for optimized video similarity searches.
