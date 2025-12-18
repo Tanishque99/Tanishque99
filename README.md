@@ -30,6 +30,8 @@ I am a **Master of Science in Computer Science** student at **Arizona State Univ
 
 ### 🎓 Academic Projects
 
+* **Text2Sql Generator**
+
 * **Human Motion Video Analytics**: 
     * Defined a multimedia database system using deep learning (R3D-18) and dimensionality reduction (PCA, SVD) for optimized video similarity searches.
 * **Robot Navigation NLP**: 
