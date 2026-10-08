@@ -31,7 +31,7 @@ I am a **Master of Science in Computer Science** student at **Arizona State Univ
 
 ### 📜 Certifications
 
-* **GCP:** Google Cloud Associate Cloud Engineer & Google Cloud Digital Leader.
+* **GCP:** Google Cloud Professional Data Engineer, Google Cloud Associate Cloud Engineer & Google Cloud Digital Leader.
 * **AWS:** AWS Certified Cloud Practitioner.
 * **Azure:** Azure Spark Databricks Essential Training.
 
