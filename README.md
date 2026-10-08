@@ -1,6 +1,6 @@
 # Hi there, I'm Tanishque Zaware!
 
-I am a **Master of Science in Computer Science** student at **Arizona State University** and a former **Software Development Analyst** at **Deloitte**. I specialize in building scalable data pipelines, implementing machine learning algorithms, and leveraging cloud technologies to solve complex business problems.
+I am a **Master of Science in Computer Science** student at **Arizona State University** and a former **Cloud Engineer** at **Deloitte**. I specialize in building scalable data pipelines, implementing machine learning algorithms, and leveraging cloud technologies to solve complex business problems.
 
 ---
 
